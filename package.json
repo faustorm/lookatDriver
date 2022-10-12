@@ -10,7 +10,7 @@
     "moment": "^2.18.1",
     "pushwoosh-react-native-plugin": "^3.0.2",
     "react": "16.0.0-alpha.12",
-    "react-native": "0.46.4",
+    "react-native": "0.70.2",
     "react-native-communications": "^2.2.1",
     "react-native-device-info": "^0.11.0",
     "react-native-maps": "^0.15.3",
